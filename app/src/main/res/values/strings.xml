@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GuessingGameApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="fab">FAB</string>
+    <string name="banner_text">Please tap to guess a number</string>
+    <string name="button">Play Game</string>
+</resources>
